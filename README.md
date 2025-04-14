@@ -109,7 +109,7 @@ digital-wallet/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/digital-wallet.git
+git clone https://github.com/AYESHA1124/Digital-payment-wallet
 cd digital-wallet
 ```
 
@@ -245,5 +245,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ---
 
 <p align="center">
-  Made with ❤️ by Your Team
+  Made with ❤️ by me
 </p> 
