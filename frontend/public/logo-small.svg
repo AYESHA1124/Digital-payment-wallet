@@ -1,0 +1,31 @@
+<svg width="40" height="40" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Circle -->
+  <circle cx="80" cy="80" r="75" fill="#4299E1" />
+  <circle cx="80" cy="80" r="65" fill="#3182CE" />
+  
+  <!-- Wallet Shape -->
+  <rect x="35" y="50" width="90" height="60" rx="6" fill="#EDF2F7" />
+  <rect x="35" y="65" width="90" height="45" rx="4" fill="#E2E8F0" />
+  
+  <!-- Digital Elements -->
+  <rect x="110" y="70" width="25" height="35" rx="3" fill="#4299E1" />
+  <circle cx="122.5" cy="87.5" r="5" fill="#EDF2F7" />
+  
+  <!-- Card Design -->
+  <rect x="45" y="75" width="50" height="25" rx="4" fill="#3182CE" />
+  <rect x="50" y="85" width="25" height="4" rx="1" fill="#EDF2F7" />
+  <rect x="50" y="92" width="15" height="3" rx="1" fill="#EDF2F7" />
+  <circle cx="85" cy="82" r="5" fill="#EDF2F7" />
+  
+  <!-- Digital Connection Lines -->
+  <rect x="45" y="105" width="5" height="2" rx="1" fill="#3182CE" />
+  <rect x="55" y="105" width="5" height="2" rx="1" fill="#3182CE" />
+  <rect x="65" y="105" width="5" height="2" rx="1" fill="#3182CE" />
+  <rect x="75" y="105" width="5" height="2" rx="1" fill="#3182CE" />
+  <rect x="85" y="105" width="5" height="2" rx="1" fill="#3182CE" />
+  <rect x="95" y="105" width="5" height="2" rx="1" fill="#3182CE" />
+  <rect x="105" y="105" width="5" height="2" rx="1" fill="#3182CE" />
+  
+  <!-- Inner Security Ring Effect -->
+  <circle cx="80" cy="80" r="55" stroke="#EDF2F7" stroke-width="1" stroke-dasharray="4 4" />
+</svg> 
